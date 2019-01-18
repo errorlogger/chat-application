@@ -1,0 +1,25 @@
+.bodyDiv {
+    height:100vh;
+    background: linear-gradient(to right, #1766a7, #64b5f6, #0e5b9b);
+}
+.bodyContainer {
+    margin-top: 10vh !important;
+}
+.heading-secondary {
+    text-align: center;
+    font-weight: 400;
+}
+.tabs a {
+    background-color: white;
+    color:#64b5f6;
+    font-weight: 300;
+    font-size: 1.5rem;
+}
+.auth-content {
+    height: 475px !important;
+    padding-top: 1rem !important;
+}
+
+.card {
+    background-color: #eee
+}

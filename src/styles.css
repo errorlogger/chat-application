@@ -1,1 +1,27 @@
-/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files 
+html {
+    font-size: 60%;
+    margin:0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+    
+}*/
+.card {
+    box-shadow: 0 15px 30px 2px rgba(0,0,0,.3);
+}
+.tabs .indicator {
+    background-color: #1f6ba5;
+}
+.tabs .active {
+    background-color: #64b5f6 !important;
+    color: white !important;
+    font-weight: 1000 !important;
+    
+}
